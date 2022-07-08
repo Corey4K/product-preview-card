@@ -4,13 +4,13 @@ body {
 
 .container {
   background-color: hsl(0, 0%, 100%);
-  border-radius: 3%;
+  border-radius: 0.75rem;
   margin: auto;
   width: 95%;
 }
 
 .product-img {
-  border-radius: 3% 3% 0 0;
+  border-radius: 0.75rem 0.75rem 0 0;
   height: 100%;
   width: 100%;
 }
